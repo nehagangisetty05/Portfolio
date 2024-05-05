@@ -244,7 +244,7 @@ header.sticky{
 
 .project-box{
     width: 25vw;
-    height: 25vw;
+    height: 20vw;
 }
 
 .project-box img{
@@ -356,8 +356,6 @@ header.sticky{
     background-color: black;
     position: relative;
     display: flex;
-    /* justify-content: space-between; */
-    /* align-items: center; */
 }
 
 .box1 h3{
